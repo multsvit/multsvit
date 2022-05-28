@@ -6,7 +6,7 @@
 
   <h1>Currently you're on a developer's page</h1>
   <p><b>${</b><i>this.profile</i><b>}</b> knowledge stack is on the table below </p>
-  <!-- <p>I may gladly represent you one of my pets: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a> </p> -->
+
 
 
 <h2 align="center">💬 Find me:</h2>
@@ -18,7 +18,7 @@
 
 Techonologies | Description | Tools
 --- | --- | ---
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript) | *methodology* |![MVC](https://img.shields.io/badge/mvc-20232A?style=for-the-badge) ![DOM](https://img.shields.io/badge/dom-20232A?style=for-the-badge) ![TDD](https://img.shields.io/badge/tdd-20232A?style=for-the-badge) ![AJAX](https://img.shields.io/badge/ajax-20232A?style=for-the-badge) ![SOLID](https://img.shields.io/badge/solid-20232A?style=for-the-badge) ![OOP](https://img.shields.io/badge/oop-20232A?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) | *methodology* |![MVC](https://img.shields.io/badge/mvc-20232A?style=for-the-badge) ![DOM](https://img.shields.io/badge/dom-20232A?style=for-the-badge) ![TDD](https://img.shields.io/badge/tdd-20232A?style=for-the-badge) ![AJAX](https://img.shields.io/badge/ajax-20232A?style=for-the-badge) ![SOLID](https://img.shields.io/badge/solid-20232A?style=for-the-badge) ![OOP](https://img.shields.io/badge/oop-20232A?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) | *services* | ![react-router](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router) ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD) ![React Query](https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=reactquery) 
 ![NodeJS](https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js) | *stack* | ![Express](https://img.shields.io/badge/express.js-20232A?style=for-the-badge&logo=express) ![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens) ![socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io) ![npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
 DATA | *ORM & DB* |![Redis](https://img.shields.io/badge/redis-20232A?style=for-the-badge&logo=redis&logoColor=red) ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql) ![sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize) ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=green)
@@ -52,25 +52,7 @@ Testing | *test* | ![Jest](https://img.shields.io/badge/-jest-20232A?style=for-t
 <!-- ![github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github) -->
 <!-- ![npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm) -->
  
-<div align="center">
- <br> <br>
 
-  <h2> 📈 GitHub Activity Graph: </h2>
-  
-<!-- ![compampa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=compampa&hide_border=true&theme=redical)
-  
-  <br> <br>
-  
-![compampa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=compampa&theme=radical&layout=compact)
-  
-<br> <br>
-  
-![compampa's github stats](https://github-readme-stats.vercel.app/api?username=compampa&show_icons=true&theme=radical&include_all_commits=true)
-   -->
-  <br> <br>
   
   
-  
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=compampa)
-   -->
-</div>
+![](https://visitor-badge.glitch.me/badge?page_id=multsvit)
