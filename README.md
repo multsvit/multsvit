@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/multsvit/multsvit/blob/main/assets/GOYO.gif" alt="header"/>
+  <img src="https://github.com/multsvit/multsvit/blob/main/assets/gugo.gif" alt="header"/>
 </div>
 
 
